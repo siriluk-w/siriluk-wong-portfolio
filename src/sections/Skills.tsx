@@ -27,12 +27,13 @@ export default function Skills() {
     {
       title: "Tools & Platforms",
       skills: [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
         "Git",
         "GitHub",
         "Vercel",
         "Cloudflare",
-        "WordPress",
-        "WooCommerce",
       ],
     },
   ];

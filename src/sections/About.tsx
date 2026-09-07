@@ -11,10 +11,11 @@ export default function About() {
         </p>
 
         <p className="mt-4 text-lg text-gray-600">
-          Throughout my career, I have worked with Angular, React, TypeScript,
-          JavaScript, and modern frontend technologies. I enjoy transforming
-          designs into reusable UI components and collaborating with designers
-          and developers to deliver great user experiences.
+          Throughout my career, I have worked with Angular, React, Next.js,
+          TypeScript, JavaScript, WordPress, and WooCommerce. I enjoy
+          transforming UI/UX designs into production-ready websites, building
+          reusable UI components, and customizing web experiences to meet both
+          design and business requirements.
         </p>
       </div>
     </section>

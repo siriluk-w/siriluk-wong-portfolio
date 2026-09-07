@@ -89,4 +89,68 @@ export const projects = [
     description:
       "Internal dashboard management system for configuring widgets and dashboard layouts with reusable enterprise UI components.",
   },
+  {
+    id: "central-embassy",
+    title: "Central Embassy Website",
+    year: "2014",
+    role: "WordPress UI Developer",
+    category: "wordpress",
+    tech: ["WordPress", "PHP", "HTML", "CSS", "JavaScript"],
+
+    cover: "/images/projects/central-embassy/home-01.png",
+
+    gallery: [
+      "/images/projects/central-embassy/home-01.png",
+      "/images/projects/central-embassy/home-02.png",
+      "/images/projects/central-embassy/store-01.png",
+      "/images/projects/central-embassy/store-02.png",
+    ],
+
+    description:
+      "Developed the Central Embassy website using WordPress based on designs provided by the design team. Independently handled theme evaluation, WordPress implementation, UI customization, and custom functionality, including an infinite-scroll experience for displaying brand content.",
+  },
+  {
+    id: "zen-restaurant",
+    title: "ZEN Restaurant Website",
+    year: "2015–2017",
+    role: "WordPress Content Management",
+    category: "wordpress",
+    tech: ["WordPress", "HTML", "CSS"],
+
+    cover: "/images/projects/zen/home-01.png",
+
+    gallery: [
+      "/images/projects/zen/home-01.png",
+      "/images/projects/zen/home-02.png",
+      "/images/projects/zen/home-03.png",
+      "/images/projects/zen/home-04.png",
+      "/images/projects/zen/promotion-01.png",
+    ],
+
+    description:
+      "Managed website content using WordPress, including promotional banners, campaigns, posts, and other website updates to keep content current and aligned with ongoing marketing activities.",
+  },
+
+  {
+    id: "kultana-orchids",
+    title: "Kultana Orchids Website",
+    year: "2019",
+    role: "WordPress Developer",
+    category: "wordpress",
+    tech: ["WordPress", "WooCommerce", "PHP", "HTML", "CSS", "JavaScript"],
+
+    cover: "/images/projects/kultana/shopping-cart.png",
+
+    gallery: [
+      "/images/projects/kultana/shopping-cart.png",
+      "/images/projects/kultana/cart.png",
+      "/images/projects/kultana/checkout.png",
+      "/images/projects/kultana/order.png",
+      "/images/projects/kultana/home-mobile.png",
+      "/images/projects/kultana/reference-package.png",
+    ],
+
+    description:
+      "Developed a WordPress-based e-commerce website from provided UI designs, handling theme selection, customization, WooCommerce implementation, and front-end adjustments. Customized WordPress pages, posts, and WooCommerce code to closely match the approved designs.",
+  },
 ];

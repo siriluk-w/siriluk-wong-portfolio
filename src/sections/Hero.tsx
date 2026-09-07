@@ -11,8 +11,8 @@ export default function Hero() {
         <h1 className="mt-4 text-5xl font-bold">Siriluk Wong (Lily)</h1>
 
         <p className="mt-6 text-lg text-gray-600">
-          Specialized in UI development, responsive web applications, and modern
-          frontend technologies.
+          Specialized in UI development, responsive web applications, and
+          WordPress-based website development.
         </p>
 
         <div className="mt-8 flex justify-center gap-4">
